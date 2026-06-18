@@ -1,0 +1,18 @@
+def calc_avg(a,b,c):
+    avg = (a + b + c) / 3
+    return avg
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))    
+num3 = float(input("Enter third number: "))
+average = calc_avg(num1, num2, num3)
+print("The average of the three numbers is:", average)
+
+or
+
+def calc_avg(a,b,c):
+    sum = a + b + c
+    avg = sum / 3
+    print(avg)
+    return avg
+
+calc_avg(10, 20, 30)
