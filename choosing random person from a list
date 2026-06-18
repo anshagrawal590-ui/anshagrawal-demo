@@ -1,0 +1,5 @@
+import random
+choices = ["Daksh", "Mehul", "Ansh"]
+print(random.choice(choices))
+
+
