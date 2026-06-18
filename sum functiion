@@ -1,0 +1,7 @@
+def leo(a,b):
+    sum = a + b
+    print(sum)
+    return sum
+
+leo(5, 10)
+leo(20, 30)
