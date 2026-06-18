@@ -1,0 +1,7 @@
+a = int(input("Enter Principal Amount: "))
+b = int(input("Enter Rate of Interest: "))
+c = int(input("Enter Time: "))
+
+simple_interest = (a * b * c) / 100
+
+print("simple_interest: ", simple_interest)
