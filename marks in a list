@@ -1,0 +1,9 @@
+marks1 = 23.8
+marks2 = 56.9
+marks3 = 60.5
+marks4 = 28.8
+marks5 = 90.7
+
+marks = [ 23.8, 56.9, 60.5, 28.8, 90.7 ]
+
+print(marks)
