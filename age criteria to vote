@@ -1,0 +1,6 @@
+age = 100
+
+if age >= 18:
+    print("can caste vote")
+else:
+    print("cannot caste vote")
