@@ -1,0 +1,6 @@
+subjects = {
+        "python" ,"python" ,"python" ,"java" ,"java" ,"java" ,"c++" 
+        ,"c++" ,"c" ,"javascript" 
+        }
+
+print(len(subjects))
