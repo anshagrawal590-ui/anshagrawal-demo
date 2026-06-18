@@ -1,0 +1,13 @@
+marks = {}
+
+x = int(input("Enter physics marks:"))
+marks["physics"] = x
+
+
+y = int(input("Enter maths marks:"))
+marks["maths"] = y
+
+z = int(input("Enter chemistry marks:"))
+marks["chemistry"] = z
+
+print(marks)
