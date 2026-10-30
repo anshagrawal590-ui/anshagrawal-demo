@@ -1,0 +1,22 @@
+Dollar to rupees program
+
+#include <stdio.h>
+int main()
+{
+    float a;
+
+    printf("Enter value in rupees: ");
+    scanf("%f", &a);
+
+    if(a>=0)
+    {
+        printf("Value in dollars: %f", a*0.011);
+    }
+    else
+    {
+        printf("Please enter a valid value");
+
+    }
+
+    return 0;
+}
